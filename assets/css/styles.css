@@ -272,6 +272,10 @@ strong{
   background-color: #ddd;
 }
 
+iframe{
+  justify-content: center;
+}
+
 .copyright{
   display: flex;
   border:none;
